@@ -19,7 +19,7 @@ public class Ejercicio_string {
         String nombre = s.nextLine();;
         
         System.out.println(" su edad es " + edad + " su nota es " + nota1 + " y su nombre es " + nombre);
-               
+               System.out.println("NUEVO CAMBIO");
     }
     
 }
