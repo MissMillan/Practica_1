@@ -20,6 +20,16 @@ public class Ejercicio_string {
         
         System.out.println(" su edad es " + edad + " su nota es " + nota1 + " y su nombre es " + nombre);
                System.out.println("NUEVO CAMBIO");
+               
+               
+       /* -------------------------------------------------------------*/
+       
+       var centro = "CEEP";
+           System.out.println("Salto de linea:  \n" + centro);
+           System.out.println("Tabulador:  \t"+ centro);
+           System.out.println("Retroceso:  \b\b"+ centro);
+           System.out.println("Comilla simple:  \'"+ centro + " ");
+           System.out.println("Comilla simple:  \" "+ centro + "\"");
     }
     
 }
